@@ -19,12 +19,6 @@ This Power BI dashboard provides a comprehensive view of Amazon's sales performa
  * To enhance communication and collaboration among stakeholders by providing a shared view of sales performance.
 #    Target Audience:
 This dashboard is intended for a wide range of stakeholders within Amazon, including sales managers, analysts, executives, and other decision-makers who require access to timely and accurate sales data.
-#    Additional Notes:
- * You can add more specific details about the data sources, tools used, and any unique challenges or solutions encountered during the project.
- * Consider including screenshots of the dashboard to showcase its key visualizations and features.
- * If you have any code snippets or custom visuals, you can include them in the repository for reference.
-By providing a clear and concise project overview on GitHub, you can effectively communicate the purpose, value, and functionality of your Power BI dashboard to potential users and collaborators.
-Let me know if you'd like me to elaborate on any specific aspect of the overview or help you with the GitHub repository setup.
 ![Screenshot 2024-06-03 170134](https://github.com/Ashinsarkarlahiri/Amazon-Sales-Analytics-Project/assets/153322941/5a5a5b43-0fdd-4cac-be6b-4310d68883d0)
 ![Screenshot 2024-06-03 170134](https://github.com/Ashinsarkarlahiri/Amazon-Sales-Analytics-Project/blob/main/Screenshot%202024-12-24%20135419.png)
 ![Screenshot 2024-06-03 170134](https://github.com/Ashinsarkarlahiri/Amazon-Sales-Analytics-Project/blob/main/Screenshot%202024-12-24%20135709.png)
