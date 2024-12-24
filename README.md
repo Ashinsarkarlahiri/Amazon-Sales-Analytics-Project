@@ -3,6 +3,6 @@
 ![Screenshot 2024-06-03 170134](https://github.com/Ashinsarkarlahiri/Amazon-Sales-Analytics-Project/blob/main/Screenshot%202024-12-24%20135419.png)
 ![Screenshot 2024-06-03 170134](https://github.com/Ashinsarkarlahiri/Amazon-Sales-Analytics-Project/blob/main/Screenshot%202024-12-24%20135709.png)
 ![Screenshot 2024-06-03 170134](https://github.com/Ashinsarkarlahiri/Amazon-Sales-Analytics-Project/blob/main/Screenshot%202024-12-24%20135723.png)
-![Screenshot 2024-06-03 170134]
+![Screenshot 2024-06-03 170134](https://github.com/Ashinsarkarlahiri/Amazon-Sales-Analytics-Project/blob/main/Screenshot%202024-12-24%20135737.png)
 ![Screenshot 2024-06-03 170134]
 ![Screenshot 2024-06-03 170134]
