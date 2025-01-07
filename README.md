@@ -29,6 +29,6 @@ This dashboard is intended for a wide range of stakeholders within Amazon, inclu
 
 Check out my YouTube video presentation below 
 
-[![Chaos Getting Sorted](https://i9.ytimg.com/vi_webp/aDljtRtF4b8/mqdefault.webp?v=677d4d91&sqp=CKia9bsG&rs=AOn4CLDuddSUSZwIvFYfIGHeMDL78T2aTg)](https://www.youtube.com/embed/aDljtRtF4b8?si=OKy8lm2Xw7YGllpl) </br>
+[![Chaos Getting Sorted](https://i9.ytimg.com/vi_webp/aDljtRtF4b8/mqdefault.webp?v=677d5b15&sqp=CIy09bsG&rs=AOn4CLBwiiRDhWb-Dkiy2eUeKpYs0oKsZg)](https://www.youtube.com/embed/aDljtRtF4b8?si=OKy8lm2Xw7YGllpl) </br>
 
 
