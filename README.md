@@ -24,6 +24,7 @@ This dashboard is intended for a wide range of stakeholders within Amazon, inclu
 
 [![Chaos Getting Sorted](https://i9.ytimg.com/vi_webp/aDljtRtF4b8/mqdefault.webp?v=677d5b15&sqp=CIy09bsG&rs=AOn4CLBwiiRDhWb-Dkiy2eUeKpYs0oKsZg)](https://www.youtube.com/embed/aDljtRtF4b8?si=OKy8lm2Xw7YGllpl) </br>
 
+### Overall Report & Dashboard glimpse :
 
 ![Screenshot 2024-06-03 170134](https://github.com/Ashinsarkarlahiri/Amazon-Sales-Analytics-Project/assets/153322941/5a5a5b43-0fdd-4cac-be6b-4310d68883d0)
 ![Screenshot 2024-06-03 170134](https://github.com/Ashinsarkarlahiri/Amazon-Sales-Analytics-Project/blob/main/Screenshot%202024-12-24%20135419.png)
