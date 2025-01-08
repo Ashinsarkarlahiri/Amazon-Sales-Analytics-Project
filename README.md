@@ -20,7 +20,7 @@ This Power BI dashboard provides a comprehensive view of Amazon's sales performa
 #    Target Audience:
 This dashboard is intended for a wide range of stakeholders within Amazon, including sales managers, analysts, executives, and other decision-makers who require access to timely and accurate sales data.
 
-### Check out my YouTube video presentation below: 
+### Check out my YouTube video presentation below : 
 
 [![Chaos Getting Sorted](https://i9.ytimg.com/vi_webp/aDljtRtF4b8/mqdefault.webp?v=677d5b15&sqp=CIy09bsG&rs=AOn4CLBwiiRDhWb-Dkiy2eUeKpYs0oKsZg)](https://www.youtube.com/embed/aDljtRtF4b8?si=OKy8lm2Xw7YGllpl) </br>
 
