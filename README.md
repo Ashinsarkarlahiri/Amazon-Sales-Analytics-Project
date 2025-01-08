@@ -20,15 +20,16 @@ This Power BI dashboard provides a comprehensive view of Amazon's sales performa
 #    Target Audience:
 This dashboard is intended for a wide range of stakeholders within Amazon, including sales managers, analysts, executives, and other decision-makers who require access to timely and accurate sales data.
 
+Check out my YouTube video presentation below 
+
+[![Chaos Getting Sorted](https://i9.ytimg.com/vi_webp/aDljtRtF4b8/mqdefault.webp?v=677d5b15&sqp=CIy09bsG&rs=AOn4CLBwiiRDhWb-Dkiy2eUeKpYs0oKsZg)](https://www.youtube.com/embed/aDljtRtF4b8?si=OKy8lm2Xw7YGllpl) </br>
+
+
 ![Screenshot 2024-06-03 170134](https://github.com/Ashinsarkarlahiri/Amazon-Sales-Analytics-Project/assets/153322941/5a5a5b43-0fdd-4cac-be6b-4310d68883d0)
 ![Screenshot 2024-06-03 170134](https://github.com/Ashinsarkarlahiri/Amazon-Sales-Analytics-Project/blob/main/Screenshot%202024-12-24%20135419.png)
 ![Screenshot 2024-06-03 170134](https://github.com/Ashinsarkarlahiri/Amazon-Sales-Analytics-Project/blob/main/Screenshot%202024-12-24%20135709.png)
 ![Screenshot 2024-06-03 170134](https://github.com/Ashinsarkarlahiri/Amazon-Sales-Analytics-Project/blob/main/Screenshot%202024-12-24%20135723.png)
 ![Screenshot 2024-06-03 170134](https://github.com/Ashinsarkarlahiri/Amazon-Sales-Analytics-Project/blob/main/Screenshot%202024-12-24%20135737.png)
-![Screenshot 2024-06-03 170134](https://github.com/Ashinsarkarlahiri/Amazon-Sales-Analytics-Project/blob/main/Screenshot%202024-12-24%20135750.png) </br>
-
-Check out my YouTube video presentation below 
-
-[![Chaos Getting Sorted](https://i9.ytimg.com/vi_webp/aDljtRtF4b8/mqdefault.webp?v=677d5b15&sqp=CIy09bsG&rs=AOn4CLBwiiRDhWb-Dkiy2eUeKpYs0oKsZg)](https://www.youtube.com/embed/aDljtRtF4b8?si=OKy8lm2Xw7YGllpl) </br>
+![Screenshot 2024-06-03 170134](https://github.com/Ashinsarkarlahiri/Amazon-Sales-Analytics-Project/blob/main/Screenshot%202024-12-24%20135750.png)
 
 
