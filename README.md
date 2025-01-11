@@ -1,3 +1,7 @@
+### Check out my Project video presentation below : 
+
+[![Chaos Getting Sorted](https://i9.ytimg.com/vi_webp/aDljtRtF4b8/mqdefault.webp?v=677d5b15&sqp=CIy09bsG&rs=AOn4CLBwiiRDhWb-Dkiy2eUeKpYs0oKsZg)](https://www.youtube.com/embed/aDljtRtF4b8?si=OKy8lm2Xw7YGllpl) </br>
+
 # Project Overview:
 # Project Title: Amazon Sales Analytics Dashboard
 # Project Description:
@@ -19,10 +23,6 @@ This Power BI dashboard provides a comprehensive view of Amazon's sales performa
  * To enhance communication and collaboration among stakeholders by providing a shared view of sales performance.
 #    Target Audience:
 This dashboard is intended for a wide range of stakeholders within Amazon, including sales managers, analysts, executives, and other decision-makers who require access to timely and accurate sales data.
-
-### Check out my Project video presentation below : 
-
-[![Chaos Getting Sorted](https://i9.ytimg.com/vi_webp/aDljtRtF4b8/mqdefault.webp?v=677d5b15&sqp=CIy09bsG&rs=AOn4CLBwiiRDhWb-Dkiy2eUeKpYs0oKsZg)](https://www.youtube.com/embed/aDljtRtF4b8?si=OKy8lm2Xw7YGllpl) </br>
 
 ### Overall Report & Dashboard glimpse :
 
